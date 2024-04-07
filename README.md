@@ -1,2 +1,1 @@
-# Password-Generator-Website-
-this is a functioning website that generators password !
+This is a password generator website ! , this was created by me . Maor , please feel free to ask any questions
